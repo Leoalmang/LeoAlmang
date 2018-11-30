@@ -12,7 +12,7 @@ public class Uppgift1 {
 				while (tal == 0);
 				
 				while (tal != 0){
-				
+				//test
 				
 					tal = input.nextDouble();
 					summa = summa + tal;
