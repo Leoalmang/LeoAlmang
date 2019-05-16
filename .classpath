@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="V47"/>
 	<classpathentry kind="src" path="V48"/>
 	<classpathentry kind="src" path="V49"/>
+	<classpathentry kind="src" path="v10"/>
+	<classpathentry kind="lib" path="C:/Users/usr/Downloads/HangmanConsoleWindow.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
