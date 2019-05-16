@@ -1,0 +1,71 @@
+
+
+
+
+ 
+ Planering:
+Hur ska händelseförloppet gå till?
+
+Skriv upp händelseförloppet i steg med pseudokod, diagram eller bilder.
+Gör en kort skriftlig plan. 
+Jag ska göra ett hänga gubben spel där jag använder en string som ska ta platsen av ordet som ska gissas.
+Metoder för Välkomstord och metod för vinst och förlust.
+
+Vilka olika variabler och datatyper tänker du använda och till vilket syfte? (ArrayList, String, Scanner, etc) Int för antal liv kvar.
+
+Vilken (om möjlig) funktionalitet kan du skapa metoder av?
+Vid förlust får användaren än outprint med hånande kommentarer ( väldigt viktig del av spelet) , vinst uppmuntrar spelaren och start av spelet med välkomstord. 
+Vilka variabler behöver (om nödvändigt) vara åtkomliga inom hela klassen?
+Liv.
+Du måste inte strikt hålla dig till planeringen utan kan mycket väl revidera den under projektets gång. 
+OBS! Ta med det i utvärderingen sen.
+
+Spelet:
+Spelet ska vara ett vanligt hänga gubbe spel som spelas via konsolen.
+Spelet ska själv kunna behandla all felaktig input så att det inte kraschar.
+All kod ska vara tydligt kommenterad och/eller dokumenterad med JavaDoc. En inlämning utan kommentarer kommer inte att godkännas!
+
+
+
+Skriv en utvärdering om ditt spel:
+Finns det några buggar?
+Defenitivt inga jag har hittat dock.
+Kan programmet krascha?
+De kan de säkert.
+Hur avslutas spelet?
+Med en kommentar Banne mig stark insats ju det trodde jag aldrig om dig din nolla!
+
+Vilka extra nämnvärda funktionaliteter finns i ditt spel? Exempelvis:
+
+Jag har använt mig utav HangmanConsoleWindow.
+Stötte du på några problem du fastnade på?
+Om ja: Hur löste du dem?
+Under spelets gång syntes inte allt i hangmanConsoleWindow och jag fixade detta genom att cleara consolen under spelets gång
+Var något annat svårt eller utmanande?
+fixa felinput
+Var något lätt?
+Hade du tillräckligt med förkunskaper?
+yes box
+det tycker jag fick hjälp att lära mig det jag inte kunde
+Om några: Vad saknade du för förkunskaper?
+Bogdan :(
+Ser du några förbättringar som kan göras?
+Ja random ord
+Omstart
+Förklara med ord vad som kan förbättras.
+Om du får gissa (eller vet), hur hade man kunnat implementera det i ditt program?
+Är det någon ytterligare funktion du hade velat lägga till men som du saknar kunskaper för att göra?
+Vet egentligen hur jag skulle göra hann bara inte innan inlämningstiden, är för långsam på att programera 
+Hur fungerar programmet?
+Beskriv programflödet enkelt med text, punkfrom eller flödesschema.
+Hur väl har du hållit dig till din planering?
+öööööööh gjorde kanske inte så jättemycket planering
+
+Har du fått göra om din planering under projektets gång?
+nej det har inte gång
+Är ditt nuvarande programflöde likt den planeringen du gjorde i början?
+Fruktansvärt likt
+Använder du någon slags kod vi inte gått igenom?
+replace all
+Isånnafall vad och hur hittade du den? 
+GOOGGLE som bogdan hade sagt
