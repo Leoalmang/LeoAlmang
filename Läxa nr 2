@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class uppgiftnrett{
+
+public static void main(String[] args){
+
+System.out.println("Skriv ett ord:");
+ Scanner se = new Scanner(System.in);
+ String str = se.nextLine();
+ String omvandt = "";
+ for(int i = str.length() - 1; i >= 0; i--){
+ omvandt = omvandt + str.charAt(i);}
+ System.out.println("Back och fram ser ditt ord ut som följande:");
+ System.out.println(omvandt);
+    }
+}
